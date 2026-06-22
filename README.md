@@ -1,4 +1,5 @@
 # Smart_Task-Scheduler_with_Priority_Queues
+---
 📋 Overview
 Smart Task Scheduler is a sophisticated desktop application that revolutionizes task management using priority queues to automatically organize your tasks based on urgency and importance. Built with Java Swing, it features intelligent sorting, smart reminders, and a clean, professional interface.
 
